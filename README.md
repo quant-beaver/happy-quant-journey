@@ -1,7 +1,9 @@
 # Happy-Quant-Journey
-python ecosystem 학습 Repo, 도메인을 깊게 이해하자. 양질의 내용들은 다 원서로 되어있고 한글로 된 책들을 좀 살펴봤는데 목차부터 부실한 경우가 많았어서.. 두물머리에 재직중인 이한열님이 굉장히 활발하게 좋은 책들을 많이 옮겨오고 계신데 시간이 걸리더라도 아래 추린 책들을 먼저 읽어보고나서 -  
+python ecosystem 학습 Repo, 도메인을 깊게 이해하자. 양질의 내용들은 다 원서로 되어있고 한글로 된 책들을 좀 살펴봤는데 목차부터 부실한 경우가 많았어서..  
+두물머리에 재직중인 이한열님이 굉장히 활발하게 좋은 책들을 많이 옮겨오고 계신데 시간이 걸리더라도 아래 추린 책들을 먼저 읽어보고나서 -   
 
-Robert Carver은 내가 따로 참고하려고 저장해놨는데 neruotrader도 같은 책을 추천해서 형광펜으로 마킹했고 10권중 1권도 번역본이 없다는게 아쉽습니다. Ernine, Robert, Grinold가 가장 언급이 많이되서 우선순위로 기록했습니다.
+Robert Carver은 따로 참고하려고 저장해놨는데 neruotrader도 같은 책을 추천했다. 의견이 너무 극적으로 갈리는 책이라 개인적인 판단이 필요.  
+10권중 1권도 번역본이 없다. Ernine, Robert, Grinold가 가장 언급이 많이되서 우선순위로 기록
 
 ## 추천 도서 목록
 1. **"Algorithmic Trading: Winning Strategies and Their Rationale"**
